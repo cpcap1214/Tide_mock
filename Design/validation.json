@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-09",
+  "version": "course-simplified",
+  "native_build": "passed: Xcode 27 Debug iphonesimulator unsigned",
+  "native_runtime": "iPhone 18 Pro iOS 27",
+  "requirements": "All six mandatory requirements mapped in README.md",
+  "syntax": "Basic structs, properties, stacks, Image, Text, ScrollView and modifiers; no custom functions, loops, enum, extension, GeometryReader, Path or state",
+  "appearance": "Asset-based light and dark colors; both inspected",
+  "interactions": "Horizontal scrolling to Sadness and vertical scrolling to Library verified",
+  "screenshots": "Design/Verified/course-*.png",
+  "bonus_link": "omitted to preserve static prototype scope"
+}
