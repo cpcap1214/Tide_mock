@@ -4,4 +4,8 @@ DerivedData/
 build/
 *.xcuserstate
 submission/
-Design/Backups/
+Design/
+Preview/
+PREVIEW.jpg
+Tools/
+README.md
